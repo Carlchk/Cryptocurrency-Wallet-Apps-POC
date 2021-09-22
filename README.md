@@ -2,7 +2,7 @@
 
 
 ## POC Purpose
-This POC mainly use in the PolyU Makerthon 2021 by Hong Kong Polytechnic University. This applicaiton build with Flutter and mainly proofing the concept of doing crypto transcation across different mobile platform.
+This POC mainly use in the PolyU Makerthon 2021 by Hong Kong Polytechnic University. This applicaiton build with Flutter and mainly proofing the concept of doing crypto transcation across different mobile platform. This repo WILL NOT release any source code of this project, only screenshot will be post on this repo.
 
 ## Feature exists
 
